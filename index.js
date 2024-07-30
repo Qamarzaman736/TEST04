@@ -1,3 +1,4 @@
 "use strict";
-console.log("Hello amir nazeer");
-console.log("Hello Hamza ");
+console.log("Hello World ");
+console.log("Hello Pakistan ");
+console.log("Hello Rahim ysr khan");
