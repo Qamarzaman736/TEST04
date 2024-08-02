@@ -1,2 +1,1 @@
-
-console.log("Hello pakistan");
+console.log("Hellol Pakistan");
